@@ -1,10 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
-
-- 😄 My name is <strong>Tomas</strong>
-- 🌱 I’m currently learning <strong>Typescript</strong>
-- 💬 I’m <strong>20 years old</strong>
-
-<h2 align="center">☕ Statistics</h2>
+<h1 align="center">☕ Statistics</h1>
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Nonqs&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000">
