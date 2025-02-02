@@ -6,6 +6,20 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Nonqs&hide_border=true&background=FFFFFF00&ring=4CAF50&fire=4CAF50&currStreakLabel=000000">
 </p>
 
+<h2 align="center">🚀 Projects</h2>
+<p align="center">Explore some of my most remarkable works.</p>
+
+<div align="center">
+
+| <a href="https://github.com/Ciclothe" target="_blank">**Ciclothe**</a> | <a href="https://github.com/Nonqs/mathGestures" target="_blank">**Math Gestures**</a> | <a href="https://github.com/Nonqs/codeforces_cpUpv" target="_blank">**Competitive programming**</a> |
+| :---: | :---: | :---: |
+<img align='center' src='https://github.com/Nonqs/Nonqs/blob/main/icons/ciclothe.png?raw=true' width="100px"  height='100px'> | <img align='center' width="100px" src='https://github.com/Nonqs/Nonqs/blob/main/icons/math.svg' height='100px'>  | <img align='center' src='https://github.com/Nonqs/Nonqs/blob/main/icons/codeforces.svg?raw=true' width="100px" height='100px'> |
+| <p>A new way to renew your closet</p> <a href="https://github.com/Ciclothe" target="_blank">`Repository`</a> <a href="https://ciclothe.com/" target="_blank">Website</a> | <p>Maths solver with hand detection system</p> <a href="https://github.com/Nonqs/mathGestures" target="_blank">`Repository`</a> | <p>Competitive programming at CP-UPV</p> <a href="https://github.com/Nonqs/codeforces_cpUpv" target="_blank">`Repository`</a> |
+
+</div>
+
+
+
 
 <h2 align="center">🌱 My Skills</h2>
 
@@ -13,7 +27,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs" />
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css" />
   </a>
 </p>
 
